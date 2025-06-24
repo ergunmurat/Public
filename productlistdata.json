@@ -1,0 +1,80 @@
+[
+  {
+    "ProductReferenceId": "0000001",
+    "ProductName": "Product 0000001",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+    "Description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin et justo nec turpis lacinia hendrerit.",
+    "Title": "Lorem 1",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4",
+    "InternalNote": "Lorem note 1",
+    "PaymentQRURL": ""
+  },
+  {
+    "ProductReferenceId": "0000002",
+    "ProductName": "Product 0000002",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+    "Description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem. Accusantium doloremque laudantium, totam rem aperiam.",
+    "Title": "Lorem 2",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4",
+    "InternalNote": "Lorem note 2",
+    "PaymentQRURL": ""
+  },
+  {
+    "ProductReferenceId": "0000003",
+    "ProductName": "Product 0000003",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+    "Description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis. Laboriosam, nisi ut aliquid ex ea commodi consequatur.",
+    "Title": "Lorem 3",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4",
+    "InternalNote": "Lorem note 3",
+    "PaymentQRURL": ""
+  },
+  {
+    "ProductReferenceId": "0000004",
+    "ProductName": "Product 0000004",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+    "Description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit. Esse quam nihil molestiae consequatur.",
+    "Title": "Lorem 4",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4",
+    "InternalNote": "Lorem note 4",
+    "PaymentQRURL": ""
+  },
+  {
+    "ProductReferenceId": "0000005",
+    "ProductName": "Product 0000005",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+    "Description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet. Consectetur, adipisci velit sed quia non numquam.",
+    "Title": "Lorem 5",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4",
+    "InternalNote": "Lorem note 5",
+    "PaymentQRURL": ""
+  },
+  {
+    "ProductReferenceId": "06",
+    "ProductName": "Product 0000006",
+    "ProductURL": "https://www.google.com/",
+    "Description": "test test test",
+    "Title": "Lorem 6",
+    "Price": "999",
+    "CampaignPrice": "899",
+    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+    "VideoURL": "https://v.ftcdn.net/15/22/59/79/700_F_1522597998_3K8tkLY5PkpklSYkYyHPnSxXTqzaLWfA_ST.mp4"
+  },
+  {"ProductReferenceId":"22222","ProductName":"T6 V3.2 ","ProductURL":"https://www.tulparnotebook.de/a-serie-a5-v-20-3",
+   "Description":"Intel\u00AE Raptor Lake Core\u2122 i7-13700HX 16C/24T; 30MB L3; E-CORE Max 3.70GHZ P-CORE Max 5.00 GHZ; 55W/li\u003E\nNVIDIA\u00AE GeForce\u00AE RTX4070 Max-Performance 8GB GDDR6 128-Bit DX12\n16\u0022 FHD\u002B 1920x1200 165Hz IPS Led Display\nWindows 11 Home\n2,35kg Gewicht","Title":"Intel\u00AE Raptor Lake Core\u2122 i7-13700HX 16C/24T","Price":"1999,00","CampaignPrice":"1399,00","LogoImageURL":"https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png","VideoURL":"https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4","InternalNote":"Test ama\u00E7l\u0131 \u00FCr\u00FCn bilgileri girilmi\u015Ftir, l\u00FCtfen kontrol edin","PaymentQRURL":"NA kullan\u0131lm\u0131yor."}
+ ]
