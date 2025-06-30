@@ -65,16 +65,29 @@
     "PaymentQRURL": ""
   },
   {
-    "ProductReferenceId": "06",
-    "ProductName": "Product 0000006",
-    "ProductURL": "https://www.google.com/",
-    "Description": "test test test",
-    "Title": "Lorem 6",
-    "Price": "999",
-    "CampaignPrice": "899",
-    "LogoImageURL": "https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
-    "VideoURL": "https://v.ftcdn.net/15/22/59/79/700_F_1522597998_3K8tkLY5PkpklSYkYyHPnSxXTqzaLWfA_ST.mp4"
+    "ProductReferenceId": "11111",
+    "ProductName": "Tulpar A5 V20.4",
+    "ProductURL": "https://www.tulparnotebook.de/a-serie-a5-v-20-4",
+    "Description": 
+"Intel® Alder Lake Core™ i5-12450H 8C/12T; 12MB L3; E-CORE Max 3.30GHZ P-CORE Max 4.40GHZ; 45W NVIDIA® GeForce® RTX4050 Max-Performance 6GB GDDR6 96-Bit DX12 (Maximale Grafikleistung;75 Watt + 25 Watt DB 2.0) 15,6\" FHD 1920x1080 144Hz IPS Mat LED Display Windows 11 Home Single Zone Beleuchtete Tastatur 2 Kg Gewicht",
+  "Price":"899,00 Euro",
+"CampaignPrice":"769,00 Euro",
+"LogoImageURL":"https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+"VideoURL":"https://v.ftcdn.net/15/22/59/79/700_F_1522597998_3K8tkLY5PkpklSYkYyHPnSxXTqzaLWfA_ST.mp4",
+"InternalNote":"Test ama\u00E7l\u0131 \u00FCr\u00FCn bilgileri girilmi\u015Ftir, l\u00FCtfen kontrol edin",
+"PaymentQRURL":"NA kullan\u0131lm\u0131yor."
   },
-  {"ProductReferenceId":"22222","ProductName":"T6 V3.2 ","ProductURL":"https://www.tulparnotebook.de/a-serie-a5-v-20-3",
-   "Description":"Intel\u00AE Raptor Lake Core\u2122 i7-13700HX 16C/24T; 30MB L3; E-CORE Max 3.70GHZ P-CORE Max 5.00 GHZ; 55W/li\u003E\nNVIDIA\u00AE GeForce\u00AE RTX4070 Max-Performance 8GB GDDR6 128-Bit DX12\n16\u0022 FHD\u002B 1920x1200 165Hz IPS Led Display\nWindows 11 Home\n2,35kg Gewicht","Title":"Intel\u00AE Raptor Lake Core\u2122 i7-13700HX 16C/24T","Price":"1999,00","CampaignPrice":"1399,00","LogoImageURL":"https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png","VideoURL":"https://storage.monsternotebook.com.tr/monsternotebook-tr/UPLOAD/_html_assets/de-tulpar-t6-v3-video/de-tulpar-t6-v3-fan.mp4","InternalNote":"Test ama\u00E7l\u0131 \u00FCr\u00FCn bilgileri girilmi\u015Ftir, l\u00FCtfen kontrol edin","PaymentQRURL":"NA kullan\u0131lm\u0131yor."}
+  {
+"ProductReferenceId":"22222",
+"ProductName":"Tulpar T6 V3.2 ",
+"ProductURL":"https://www.tulparnotebook.de/t-serie-t6-v-3-2",
+  "Description":
+"Intel® Raptor Lake Core™ i7-13700HX 16C/24T; 30MB L3; E-CORE Max 3.70GHZ P-CORE Max 5.00 GHZ; 55W NVIDIA® GeForce® RTX4070 Max-Performance 8GB GDDR6 128-Bit DX12 16\" FHD+ 1920x1200 165Hz IPS Led Display Windows 11 Home 2,35kg Gewicht",
+"Price":"1999,00 Euro",
+"CampaignPrice":"1399,00 Euro",
+"LogoImageURL":"https://img2-tulparnotebookde.mncdn.com/monster/uploads/_fe/html/september-campaign-2024-lp/tulpar-logo.png",
+"VideoURL":"https://v.ftcdn.net/15/22/59/79/700_F_1522597998_3K8tkLY5PkpklSYkYyHPnSxXTqzaLWfA_ST.mp4",
+"InternalNote":"Test ama\u00E7l\u0131 \u00FCr\u00FCn bilgileri girilmi\u015Ftir, l\u00FCtfen kontrol edin",
+"PaymentQRURL":"NA kullan\u0131lm\u0131yor."
+}
  ]
